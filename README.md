@@ -35,8 +35,6 @@ MediAlert is a full-stack web application designed to help users manage their me
 
 ### Other Tools
 - Git & GitHub
-- Vercel (Frontend Deployment)
-- Render / Railway (Backend Deployment)
 
 ---
 
@@ -130,20 +128,16 @@ Backend: http://localhost:5000
 
 ## 📸 Screenshots
 
-Add screenshots of your application here.
+<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/a3983e24-b9fc-48c5-a787-ced0326d9271" />
+<img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/c9312df1-c171-4fbf-9226-f7ea446fcd39" />
+<img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/a30ee38d-862f-48f7-a5ed-02bcd09db33f" />
+<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/6c862268-d94c-4937-9f76-399f96a6c88b" />
+<img width="1920" height="1080" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/51820fc9-c12f-405f-9b62-0e3c4ecb0db6" />
+<img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/be963a52-682a-4f27-afb6-450842f04ddc" />
+<img width="1920" height="1080" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/2138ac0f-3a33-44cf-b4b4-06aedcc128dd" />
 
-Example:
 
-```
-screenshots/
-│── Home.png
-│── Login.png
-│── Dashboard.png
-│── AddMedicine.png
-│── Reminder.png
-```
 
----
 
 ## 🌟 Future Enhancements
 
@@ -201,18 +195,13 @@ git push origin feature-name
 
 ---
 
-## 📄 License
-
-This project is developed for educational and learning purposes.
-
----
 
 ## 👩‍💻 Author
 
 **Ishika Joshi**
 
 - GitHub: https://github.com/ISHI-456
-- LinkedIn: *(Add your LinkedIn profile here)*
+
 
 ---
 
